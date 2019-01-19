@@ -1,3 +1,5 @@
 This is a test file
 adding second line
 doing a direct commit
+adding another file to check git ls-files 
+adding a line when other file version is an add status
